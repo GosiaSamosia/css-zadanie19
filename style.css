@@ -1,0 +1,18 @@
+body {
+    background: lightyellow;
+}
+div {
+    background-color:black;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+
+.div1 { opacity: 0.7;
+}
+
+.div2 { opacity: 0.5;
+}
+
+.div3 { opacity: 0.2;
+}
